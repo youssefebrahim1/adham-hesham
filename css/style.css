@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.container1
+{
+    
+    background: linear-gradient(to bottom,
+        rgba(0,0,0,.7),
+        rgba(0,0,0,.2));
+    padding: 8px;
+}
+.container1 h3
+{
+    font-size:24px ;
+    color: #f1f1f1;
+    text-align: center;
+}
+.forimg
+{
+    width: 45%;
+}
